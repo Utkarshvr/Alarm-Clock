@@ -37,8 +37,8 @@ The Alarm Clock is built using the following technologies and frameworks:
     <td>Light Theme</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/ss1.png" width="50%" ></td>
-    <td><img src="./screenshots/ss2.png" width="50%" ></td>
+    <td><img src="./screenshots/ss1.png" width="100%" ></td>
+    <td><img src="./screenshots/ss2.png" width="100%" ></td>
   </tr>
  </table>
  
@@ -48,8 +48,8 @@ The Alarm Clock is built using the following technologies and frameworks:
     <td>Setting Timer for 5 minutes</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/ss3.png" width="50%" ></td>
-    <td><img src="./screenshots/ss4.png" width="50%" ></td>
+    <td><img src="./screenshots/ss3.png" width="100%" ></td>
+    <td><img src="./screenshots/ss4.png" width="100%" ></td>
   </tr>
  </table>
 
